@@ -1,8 +1,18 @@
+<div align="center">
+
 # Hi 👋, I'm Sumit Prajapati
 
-### Full Stack Developer | MERN Stack | ASP.NET Core | React.js | Node.js
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer" />
+</p>
 
-Passionate about building scalable, user-friendly, and high-performance web applications. Experienced in developing modern full-stack applications using both MERN Stack and ASP.NET Core technologies. Continuously learning new technologies and best practices to build production-ready software solutions.
+</div>
+
+---
+
+Passionate about building scalable, user-friendly, and high-performance web applications. Experienced in developing modern full-stack applications using both MERN Stack and ASP.NET Core technologies.
+
+🎓 Bachelor of Technology (B.Tech) in Computer Science & Engineering (2023–2026)
 
 📍 Uttar Pradesh, India
 
@@ -10,17 +20,19 @@ Passionate about building scalable, user-friendly, and high-performance web appl
 
 💼 Open to Software Developer, Full Stack Developer, MERN Developer, ASP.NET Core Developer & Frontend Developer Roles
 
+
+
 ---
 
-# 🚀 Career Objective
+<h2 >🚀 Career Objective</h2>
 
 Aspiring Full Stack Developer with hands-on experience in building web applications using MERN Stack and ASP.NET Core. Skilled in frontend development, backend APIs, authentication systems, database management, and responsive UI design. Seeking opportunities to contribute to innovative projects while continuously growing as a software engineer.
 
 ---
 
-# 🛠 Technical Skills
+<h2 >🛠 Technical Skills</h2>
 
-## Frontend
+### Frontend
 
 * React.js
 * JavaScript (ES6+)
@@ -30,7 +42,7 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 * Bootstrap
 * React Router
 
-## Backend
+### Backend
 
 * Node.js
 * Express.js
@@ -39,13 +51,13 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 * REST APIs
 * JWT Authentication
 
-## Database
+### Database
 
 * MongoDB
 * MySQL
 * Microsoft SQL Server (MSSQL)
 
-## Tools & Platforms
+### Tools & Platforms
 
 * Git
 * GitHub
@@ -55,7 +67,7 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 * Vercel
 * Render
 
-## Concepts
+### Concepts
 
 * Object-Oriented Programming (OOP)
 * Authentication & Authorization
@@ -68,9 +80,9 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 
 ---
 
-# 💼 Projects
+<h2 >💼 Projects</h2>
 
-## 🛒 EasyCart – E-Commerce Application (MERN)
+### 🛒 EasyCart – E-Commerce Application (MERN)
 
 * Complete E-Commerce platform built using MongoDB, Express.js, React.js, and Node.js
 * User Authentication & Authorization
@@ -79,9 +91,7 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 * Order Management System
 * Fully Responsive Design
 
----
-
-## 💼 Job Portal Application (MERN)
+### 💼 Job Portal Application (MERN)
 
 * Recruiter Dashboard & Candidate Dashboard
 * Job Posting & Application Management
@@ -90,9 +100,7 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 * Modern Responsive User Interface
 * Applicant Tracking Workflow
 
----
-
-## 📄 Resume Builder (React)
+### 📄 Resume Builder (React)
 
 * Dynamic Resume Creation
 * Multiple Resume Templates
@@ -100,9 +108,7 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 * Professional Resume Layouts
 * User-Friendly Interface
 
----
-
-## 💈 Barber Booking System (MERN)
+### 💈 Barber Booking System (MERN)
 
 * Online Appointment Booking System
 * Service Management
@@ -110,9 +116,7 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 * Responsive Mobile-First Design
 * Booking Management Features
 
----
-
-## 🏠 Home Interior Management System (ASP.NET Core MVC)
+### 🏠 Home Interior Management System (ASP.NET Core MVC)
 
 * Developed using ASP.NET Core MVC and MSSQL
 * Customer Inquiry & Service Management
@@ -124,7 +128,7 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 
 ---
 
-# 🌱 Currently Learning
+<h2 >🌱 Currently Learning</h2>
 
 * Advanced ASP.NET Core
 * Advanced React Patterns
@@ -135,7 +139,7 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 
 ---
 
-# 💪 Strengths
+<h2 >💪 Strengths</h2>
 
 * Quick Learner
 * Problem Solving
@@ -147,26 +151,40 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit-01pr\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-01pr\&layout=compact\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumit-01pr&show_icons=true&theme=tokyonight" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-01pr&layout=compact&theme=tokyonight" />
 
-# 🛠 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,dotnet,mysql,git,github,vscode,visualstudio)
+</div>
 
 ---
 
-# 📫 Connect With Me
+<h2 align="center">🛠 Tech Stack</h2>
 
-* GitHub: https://github.com/sumit-01pr
-* LinkedIn: https://www.linkedin.com/in/sumit-prajapati-a70a50248/
-* Email: [sumitprajapat03935@gmail.com](mailto:sumitprajapat03935@gmail.com)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,dotnet,mysql,git,github,vscode,visualstudio,postman" />
+
+</div>
 
 ---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/sumit-01pr">GitHub</a> • <a href="https://www.linkedin.com/in/sumit-prajapati-a70a50248/">LinkedIn</a> • <a href="mailto:sumitprajapat03935@gmail.com">Email</a>
+
+</div>
+
+---
+
+<div >
 
 ⭐ Thanks for visiting my profile! I'm always excited to collaborate on interesting projects and explore new opportunities in software development.
+
+</div>
