@@ -3,7 +3,7 @@
 # Hi 👋, I'm Sumit Prajapati
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=48&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1500&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+ASP.NET+Core;Building+Scalable+Web+Applications;Open+to+Software+Developer+Roles" />
 </p>
 
 </div>
@@ -151,15 +151,11 @@ Aspiring Full Stack Developer with hands-on experience in building web applicati
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumit-01pr&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-01pr&layout=compact&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-01pr&theme=tokyonight" />
+</p>
 
 ---
 
