@@ -14,7 +14,6 @@ Passionate about building scalable, user-friendly, and high-performance web appl
 
 🎓 Bachelor of Technology (B.Tech) in Computer Science & Engineering (2023–2026)
 
-📍 Uttar Pradesh, India
 
 📧 [sumitprajapat03935@gmail.com](mailto:sumitprajapat03935@gmail.com)
 
